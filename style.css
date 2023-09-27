@@ -91,7 +91,7 @@ h4{
     
 }
 #lion{
-    margin-left: 140px;
+    margin-left: 10px;
 }
 #prime{
     height: 35px;
@@ -146,6 +146,7 @@ h4{
 /* Child-4 */
 #Item4{
     padding: 10px;
+    padding-left: 30px;
     height: 100px;
     position: absolute;
     bottom: 150px;
@@ -181,8 +182,8 @@ h4{
 }
 /* Sign-in Button */
 #sign-in{
-    width: 250px;
-    margin: 0 20px 0 20px;
+    width: 230px;
+    margin: 0 30px 0 10px;
     background-color: #FED813;
     height: 30px;
     border-radius: 10px;
